@@ -42,7 +42,7 @@
     </a>
 </p>
 <div style="margin-left: 2%">
-This project is to analyze and display stats data of automuteus with jupyter lab. This project is forked AutoMuteUs!
+**This project is to analyze and display stats data of automuteus with jupyter lab. This project is forked AutoMuteUs!**
     
 AutoMuteUs is a Discord Bot to harness Among Us game data, and automatically mute/unmute players during games!
 
